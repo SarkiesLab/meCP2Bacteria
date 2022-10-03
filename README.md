@@ -3,3 +3,4 @@ Analysis of RNA sequencing data to uncover the effect of the meCP2 binding domai
 
 To view the code click on the download link and save the file to your computer. It will then open the document as an html.
 
+The data files referenced in the code are also available for download from this directory. 
